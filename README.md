@@ -23,7 +23,8 @@ Assumptions made:
 Limitations / Constraints
       
       The program inputs for buses are case sensitive.
-      All the fields/section are available to all the users, we allow all the function to the program user under some restrictions.
+      All the fields/section are available to all the users, 
+      we allow all the function to the program user under some restrictions.
 
 
 
